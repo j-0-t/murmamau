@@ -22,7 +22,7 @@ Run the binary and give path as argument (if not given "/" is used)
 
 
 # Installation
-Just copy binary "murmamau" to zour target
+Just copy binary "murmamau" to your target
 
 # Building
 Compile static binary for current plattform:
